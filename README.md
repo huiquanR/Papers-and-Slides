@@ -1,4 +1,4 @@
-# Slides Sharing Page #
+# Slide Sharing Site #
 
 Here I uploaded some slide files generated from my research projects. If you are interested in some of the works/files/talks, you can feel free to reach me via email, which should be easy to find.
 
@@ -12,5 +12,6 @@ Projects  | Corresponding Files
 2020 CSR  | *Hukou, CCP, Cohort and Happiness* (uploaded, Dec 2018 at HKUST)
 2020 SSJ  | *Postmaterialism Revisited with WVS* (uploaded - 中英双语 CHS/ENG bilingual slide, May 2019 at RUC)
 
-## Thanks for your interest in my works! ##
-## May, 10, 2020 ##
+- Thanks for your interest in my works!
+- May, 10, 2020
+**Yours, Tony **
