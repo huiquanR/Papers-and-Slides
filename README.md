@@ -5,7 +5,7 @@ Here I uploaded some slide files generated from my research projects. If you are
 
 Project   | Link       | Notes
 ----------| ---------- | ----------
-2016 WCAS | *[Weather and Social Movements](https://github.com/huiquanR/Slides/blob/master/%E9%9D%A9%E5%91%BD%E8%80%85%E4%B9%9F%E6%80%95%E6%B7%8B%E9%9B%A8-CNPolitics2016.pdf)* |(A Chinese Version for General Readers, Summer 2016 at Seattle/Beijing)
+2016 WCAS | *[Weather and Social Movements](https://github.com/huiquanR/Slides/blob/master/%E9%9D%A9%E5%91%BD%E8%80%85%E4%B9%9F%E6%80%95%E6%B7%8B%E9%9B%A8-CNPolitics2016.pdf)* |(A Chinese Version, 2016 at Seattle/Peking)
 2019 SOCF | *[Freedom, Education & Tolerance](https://chuansongme.com/n/439360351359)* |(A Chinese Version for General Readers, July 2016)
 2019 JEAS | *[Chinese Princelings 1977-2012](https://github.com/huiquanR/Slides/blob/master/JEAS_2019_Prince_50min_v3.02.pdf)* |(50 Mins version, May 2017 at Montreal, Sep 2019 at Macau)
 2020 CSR  | *[Hukou, CCP, Cohort and Happiness](https://github.com/huiquanR/Slides/blob/master/CSR_2020_15min_v0.3%2020200510.pdf)* |(15 Mins, Dec 2018 at HKUST)
