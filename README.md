@@ -11,8 +11,8 @@ Project   | Link       | Notes
 2019 JEAS | *[Chinese Princelings 1977-2012](https://github.com/huiquanR/Slides/blob/master/JEAS_2019_Prince_50min_v3.02.pdf)* |(50 Mins version, May 2017 at Montreal, Sep 2019 at Macau)
 2020 CSR  | *[Hukou, CCP, Cohort and Happiness](https://github.com/huiquanR/Slides/blob/master/CSR_2020_15min_v0.3%2020200510.pdf)* |(15 Mins, Dec 2018 at HKUST)
 2020 AJOC  | *[Confidence in Police in Philippines](https://mp.weixin.qq.com/s?src=11&timestamp=1599358677&ver=2567&signature=A3xSZ*XxbRPpORXcoLQCeyt-AWdlxWRbPK8TnhzLraUIMWadeE0XbAfc1-8Ew-Z9Uo2kYoV-y5QxhljCi8sT7-gI*WI5*opUhujDrrYZrirZUJDs0ZfXnyHWBzY8j4KH&new=1)* |(Chinese version for General Readers, Jul 2020)
-2020 IJPOR   | *[Education, Corruption Perception and Political Trust](https://github.com/huiquanR/)* |(15 Mins, Jul 2020 at PKU-Fudan Online Conference)
-2020 RR   | *[Protest Diffusion, USA 1960-95](https://github.com/huiquanR/Slides/blob/master/A-ProtestDiffusion-15mins-v20200512_0.1.pdf)* |(15 Mins, May 2020 at U Macau)
+2021 IJPOR   | *[Education, Corruption Perception and Political Trust](https://github.com/huiquanR/)* |(15 Mins, Jul 2020 at PKU-Fudan Online Conference)
+2021 RR   | *[Protest Diffusion, USA 1960-95](https://github.com/huiquanR/Slides/blob/master/A-ProtestDiffusion-15mins-v20200512_0.1.pdf)* |(15 Mins, May 2020 at U Macau)
 2021      | To be continued...:metal: |   :blush:
 
 - Thanks for your interest in my works!
