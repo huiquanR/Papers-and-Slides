@@ -17,7 +17,7 @@ Project   | Link       | Notes
 10.SF     | *[Protest Diffusion, USA 1960-95](PDF/08_DOCA_UM_20210408_TALK_45min.pdf)* | (PPT) 50 Mins, April 2021 at U Macau
 11.RR     | *[Fractionalization and Outgroup Tolerance](https://github.com/huiquanR/)* | (ongoing)
 12.RR     | *[Gender, Class and Cosmopolitanism Beliefs](https://github.com/huiquanR/)* |  (ongoing)
-13.RR     | *[Freedom, News Consumption and Political Trust in Asia](https://github.com/huiquanR/)* |  (ongoing)
+13.RR     | *[Freedom, Media Usage and Political Trust in Asia](https://github.com/huiquanR/)* |  (ongoing)
 14.RR     | *[Urbanization and Political Trust in Asia](https://github.com/huiquanR/)* |  (ongoing)
 15.RR     | To be continued...:metal:                      |   :blush:
 
