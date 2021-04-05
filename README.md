@@ -13,7 +13,7 @@ Project   | Link       | Notes
 06.CSR    | *[Hukou, CCP, Cohort and Happiness](PDF/05_2020_CSR_15min幸福感.pdf)* | (PPT) 15 Mins, Dec 2018 at HKUST
 07.SSJ    | *[Postmaterialism Revisited with WVS](PDF/02_2019_Postmaterialism_RUC_50mins.pdf)* | (PPT) 50 Mins, May 2019 at Renmin U. of China, CN/EN bilingual
 08.AJOC   | *[Confidence in Police in Philippines](PDF/06_科研快訊_菲律賓社會對警務系統的態度.pdf)* | (article) Chinese version for General Readers, Jul 2020
-09.IJPOR  | *[Education, Corruption Perception and Political Trust in Asia](https://github.com/huiquanR/)* | (article) Chinese version for General Readers, April 2021
+09.IJPOR  | *[Education, Corruption and Political Trust in Asia](https://github.com/huiquanR/)* | (article) Chinese version for General Readers, April 2021
 10.SF     | *[Protest Diffusion, USA 1960-95](PDF/08_DOCA_UM_20210408_TALK_45min.pdf)* | (PPT) 50 Mins, April 2021 at U Macau
 11.RR     | *[Fractionalization and Outgroup Tolerance](https://github.com/huiquanR/)* | (ongoing)
 12.RR     | *[Gender, Class and Cosmopolitanism Beliefs](https://github.com/huiquanR/)* |  (ongoing)
