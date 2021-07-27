@@ -3,7 +3,7 @@
 Here I uploaded some slides/media reports based on my published/forthcoming/ongoing research projects. If you are interested in some of the works/files/talks, you can feel free to reach me via email, which should be easy to find.
 
 
-Project   | Link       | Notes
+Project   | Title/Link | Notes
 ----------| ---------- | ----------
 01.BJS    | *[Social Media and Arab Spring](https://github.com/huiquanR/)* |  (no slides) co-authored paper
 02.WCAS   | *[Weather and Social Movements](PDF/01_2016_Weather_革命者也怕淋雨_政见文章.pdf)* | (article) Chinese Version for General Readers, June 2016
@@ -13,18 +13,16 @@ Project   | Link       | Notes
 06.CSR    | *[Hukou, CCP, Cohort and Happiness](PDF/05_2020_CSR_15min幸福感.pdf)* | (PPT) 15 Mins, Dec 2018 at HKUST
 07.SSJ    | *[Postmaterialism Revisited with WVS](PDF/02_2019_Postmaterialism_RUC_50mins.pdf)* | (PPT) 50 Mins, May 2019 at Renmin U. of China, CN/EN bilingual
 08.AJOC   | *[Confidence in Police in Philippines](PDF/06_科研快訊_菲律賓社會對警務系統的態度.pdf)* | (article) Chinese version for General Readers, Jul 2020
-09.IJPOR  | *[Education, Corruption and Political Trust in Asia](https://github.com/huiquanR/)* | (article) Chinese version for General Readers, April 2021
-10.PS     | *[Regime Type and Hierarchical in Asia](https://github.com/huiquanR/)* | (forthcoming)
-----------| ---------- | ----------
+09.IJPOR  | *[Education, Corruption and Political Trust in Asia](https://github.com/huiquanR/)* | (no slides) co-authored with student, published in 2021
+10.PS     | *[Freedom, Media, and Hierarchical in Asia](https://github.com/huiquanR/)* | (forthcoming)
+Ongoing   | ---------- | ----------
 11.BJS    | *[Protest Diffusion, USA 1960-95](PDF/08_DOCA_UM_20210408_TALK_45min.pdf)* | (PPT) 50 Mins, April 2021 at U Macau
-12.RR     | *[后物质主义五十年](https://github.com/huiquanR/)* | (ongoing)
-13.RR     | *[后物质主义指标的跨国可比性](https://github.com/huiquanR/)* | (ongoing)
+12.RR     | *[后物质主义五十年](PDF/02_2019_Postmaterialism_RUC_50mins.pdf)* | (under review) 50 Mins, May 2019 at Renmin U. of China, CN/EN bilingual
+13.RR     | *[后物质主义指标的跨国可比性](https://github.com/huiquanR/)* | (under review)
 14.RR     | *[Fractionalization and Outgroup Tolerance](https://github.com/huiquanR/)* | (ongoing)
-15.RR     | *[Freedom, Media Usage and Political Trust in Asia](https://github.com/huiquanR/)* |  (ongoing)
-16.RR     | *[Gender, Class and Cosmopolitanism Beliefs](https://github.com/huiquanR/)* |  (ongoing)
-17.RR     | *[Urbanization and Political Trust in Asia](https://github.com/huiquanR/)* |  (ongoing)
-18.RR     | To be continued...:metal:                      |   :blush:
-
+15.RR     | *[Gender, Class and Cosmopolitanism Beliefs](https://github.com/huiquanR/)* |  (under review)
+16.RR     | *[Urbanization and Political Trust in Asia](https://github.com/huiquanR/)* |  (ongoing)
+17.RR     | To be continued...:metal:                      |   :blush:
 
 - Thanks for your interest in my works!
 *By: Tony Huiquan Zhang*
