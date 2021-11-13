@@ -1,8 +1,5 @@
 # Project & Slides #
-
-Here I uploaded some slides/media reports based on my published/forthcoming/ongoing research projects.
-If you are interested in some of the works/files/talks, you can feel free to reach me via email, which should be easy to find.
-
+Here I uploaded some slides/media reports based on my published/forthcoming/ongoing research projects. If you are interested in some of the works/files/talks, you can feel free to reach me via email, which should be easy to find.
 
 Project   | Title/Link | Notes
 ----------| ---------- | ----------
@@ -17,11 +14,11 @@ Project   | Title/Link | Notes
 09.2021.PS     | *[Political Freedom, Media Consumption, and Hierarchical in Asia](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS6uV4gDFp6O_OX4g4mwJVGjJEzRNXp87q1qXa8Fplpd9QCI0OTL22Cq1uPFEJrTj1YE_ifVWttJG3U0BbO-Sl5adgj6H4v3rGCWDZi6W7awe1CDDuhisuSViXEsmyCRc2RL7W_tOaBcEj--dl6C-XdsCRPSGe-kKuKFsWDs4R9-gaa8sYC_qsJmualTGHWsGj0-id3Lqt7yqETM9hpoWd5i54z_tGSZTqA..&type=2&query=umsociology%20%E7%A7%91%E7%A0%94%E5%BF%AB%E8%AE%AF%20%E5%BC%A0%E6%B1%87%E6%B3%89&token=empty&k=98&h=_)* | (article) co-authored with student
 10.2021.IJPOR  | *[Education, Corruption Perception and Political Trust in East and Southeast Asia](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS6uV4gDFp6O_OX4g4mwJVGjJEzRNXp87q1qXa8Fplpd9QCI0OTL22Cq1uPFEJrTj1YE_ifVWttJG3U0BbO-Sl5adgj6H4v3rGICSKlV4qoTBZMMmTBeIX2xpWrxK8Mx3l1SB_x6QTRy4VeUuWvMy7oggRnTNK6Hl2KQEIpOWuR_bwBhGkUjUj-mRkH-6ehKVsDlo_YC0ZB3SqjQtj-552uyE8RsmObDbtQ..&type=2&query=umsociology%20%E7%A7%91%E7%A0%94%E5%BF%AB%E8%AE%AF%20%E5%BC%A0%E6%B1%87%E6%B3%89&token=empty&k=25&h=r)* | (article) co-authored with student
 
+Ongoing   | ---------- | ----------
 11.2022.SIR    | *[Radicalizing and Conservatizing: Ageing Effects on Political Trust in Asia](https://github.com/huiquanR/)* | (article) co-authored with student, published in 2022
 12.2022.SHXPL  | *[后物质主义五十年](PDF/02_2019_Postmaterialism_RUC_50mins.pdf)* | (Accepted) 50 Mins talk at RUC, sole-authored
 13.2022.GWSHKX | *[后物质主义指标的跨国可比性](https://github.com/huiquanR/)* | (Accepted) sole-authored
 14.2022.CJCCJ  | *[Ethnic Fractionalization and Confidence in Legal Systems](https://github.com/huiquanR/)*|  (under review)
-Ongoing   | ---------- | ----------
 15.RR     | *[Protest Diffusion, USA 1960-95](PDF/08_DOCA_UM_20210408_TALK_45min.pdf)* | (PPT) 50 Mins, April 2021 at U Macau
 16.RR     | *[Urbanization and Political Trust in Asia](https://github.com/huiquanR/)* |  (ongoing)
 17.RR     | *[Fractionalization and Outgroup Tolerance](https://github.com/huiquanR/)* | (ongoing)
