@@ -1,6 +1,7 @@
-# Projects, Media Outlets, and Slides #
+# Project & Slides #
 
-Here I uploaded some slides/media reports based on my published/forthcoming/ongoing research projects. If you are interested in some of the works/files/talks, you can feel free to reach me via email, which should be easy to find.
+Here I uploaded some slides/media reports based on my published/forthcoming/ongoing research projects.
+If you are interested in some of the works/files/talks, you can feel free to reach me via email, which should be easy to find.
 
 
 Project   | Title/Link | Notes
