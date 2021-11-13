@@ -15,14 +15,16 @@ Project   | Title/Link | Notes
 08.AJOC   | *[Confidence in Police in Philippines](PDF/06_科研快訊_菲律賓社會對警務系統的態度.pdf)* | (article) Chinese version for General Readers, Jul 2020
 09.IJPOR  | *[Education, Corruption and Political Trust in Asia](https://github.com/huiquanR/)* | (no slides) co-authored with student, published in 2021
 10.PS     | *[Freedom, Media, and Hierarchical in Asia](https://github.com/huiquanR/)* | (forthcoming)
+11.SIR    | *[Radicalizing and Conservatizing: Ageing Effects on Political Trust in Asia](https://github.com/huiquanR/)* | (Accepted)
+12.SHXPL  | *[后物质主义五十年](PDF/02_2019_Postmaterialism_RUC_50mins.pdf)* | (Accepted) 50 Mins, May 2019 at Renmin U. of China, CN/EN bilingual
+13.GWSHKX | *[后物质主义指标的跨国可比性](https://github.com/huiquanR/)* | (Accepted)
+14.CJCCJ  | *[Ethnic Fractionalization and Confidence in Legal Systems](https://github.com/huiquanR/)*|  (under review)
 Ongoing   | ---------- | ----------
-11.BJS    | *[Protest Diffusion, USA 1960-95](PDF/08_DOCA_UM_20210408_TALK_45min.pdf)* | (PPT) 50 Mins, April 2021 at U Macau
-12.RR     | *[后物质主义五十年](PDF/02_2019_Postmaterialism_RUC_50mins.pdf)* | (under review) 50 Mins, May 2019 at Renmin U. of China, CN/EN bilingual
-13.RR     | *[后物质主义指标的跨国可比性](https://github.com/huiquanR/)* | (under review)
-14.RR     | *[Fractionalization and Outgroup Tolerance](https://github.com/huiquanR/)* | (ongoing)
-15.RR     | *[Gender, Class and Cosmopolitanism Beliefs](https://github.com/huiquanR/)* |  (under review)
+15.RR     | *[Protest Diffusion, USA 1960-95](PDF/08_DOCA_UM_20210408_TALK_45min.pdf)* | (PPT) 50 Mins, April 2021 at U Macau
 16.RR     | *[Urbanization and Political Trust in Asia](https://github.com/huiquanR/)* |  (ongoing)
-17.RR     | To be continued...:metal:                      |   :blush:
+17.RR     | *[Fractionalization and Outgroup Tolerance](https://github.com/huiquanR/)* | (ongoing)
+18.RR     | *[Value Map and Trends in Contemporary China](https://github.com/huiquanR/)* | (ongoing)
+19.RR     | To be continued...:metal:                      |   :blush:
 
 - Thanks for your interest in my works!
 *By: Tony Huiquan Zhang*
