@@ -17,8 +17,9 @@ Project   | Title/Link | Notes
 12.2022.SHXPL  | *[后物质主义五十年](PDF/02_2019_Postmaterialism_RUC_50mins.pdf)* | (Accepted) 50 Mins talk at RUC, sole-authored <br/> CSSCI core
 13.2022.GWSHKX | *[后物质主义指标的跨国可比性](https://github.com/huiquanR/)* | (Accepted) sole-authored <br/> CSSCI core
 14.2022.CJCCJ  | *[Ethnic Fractionalization and Confidence in Legal Systems](https://github.com/huiquanR/)*|  (under review) <br/> SSCI Q3
+15.2022.RSMCC  | *[Protest Diffusion, USA 1960-95](PDF/08_DOCA_UM_20210408_TALK_45min.pdf)* | (PPT) 50 Mins, April 2021 at U Macau <br/> SSCI
+..        | ---------- | ----------
 Ongoing   | ---------- | ----------
-15.RR     | *[Protest Diffusion, USA 1960-95](PDF/08_DOCA_UM_20210408_TALK_45min.pdf)* | (PPT) 50 Mins, April 2021 at U Macau <br/> SSCI
 16.RR     | *[Urbanization and Political Trust in Asia](https://github.com/huiquanR/)* |  (ongoing)
 17.RR     | *[Fractionalization and Outgroup Tolerance](https://github.com/huiquanR/)* | (ongoing)
 18.RR     | *[Value Map and Trends in Contemporary China](https://github.com/huiquanR/)* | (ongoing)
