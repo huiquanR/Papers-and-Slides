@@ -17,13 +17,14 @@ Project   | Title/Link | Notes
 12.2022.SHXPL  | *[后物质主义五十年](PDF/02_2019_Postmaterialism_RUC_50mins.pdf)* | (Accepted) 50 Mins talk at RUC, sole-authored <br/> CSSCI core
 13.2022.GWSHKX | *[后物质主义指标的跨国可比性](https://github.com/huiquanR/)* | (Accepted) sole-authored <br/> CSSCI core
 14.2022.CJCCJ  | *[Ethnic Fractionalization and Confidence in Legal Systems](https://github.com/huiquanR/)*|  (article)
-15.2022.RSMCC  | *[Protest Diffusion, USA 1960-95](PDF/08_DOCA_UM_20210408_TALK_45min.pdf)* | (PPT) 50 Mins, April 2021 at U Macau
+15.2023.RSMCC  | *[Protest Diffusion, USA 1960-95](PDF/08_DOCA_UM_20210408_TALK_45min.pdf)* | (PPT) 50 Mins, April 2021 at U Macau
+16.2023.SSR    | *[Peer Influence, Teacher Quality and Youth Deviance](https://github.com/huiquanR/)*    | (PPT) 15 Mins at 2023 AJC
+17.2023.SoCo   | *[Religion, Urbanization and Erosion of Political Trust](https://github.com/huiquanR/)* | (PPT) 15 Mins at 2023 AJC
 ..        | ---------- | ----------
 Ongoing   | ---------- | ----------
-16.RR     | *[Urbanization and Political Trust in Asia](https://github.com/huiquanR/)* |  (ongoing)
-17.RR     | *[Fractionalization and Outgroup Tolerance](https://github.com/huiquanR/)* | (ongoing)
 18.RR     | *[Value Map and Trends in Contemporary China](https://github.com/huiquanR/)* | (ongoing)
-19.RR     | To be continued...:metal:                      |   :blush:
+19.RR     | *[Urbanization and Political Trust in Asia](https://github.com/huiquanR/)* |  (ongoing)
+20.RR     | To be continued...:metal:                      |   :blush:
 
 - Thanks for your interest in my works!
 *By: Tony Huiquan Zhang*
