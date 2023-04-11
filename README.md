@@ -22,9 +22,11 @@ Project   | Title/Link | Notes
 17.2023.SoCo   | *[Religion, Urbanization and Erosion of Political Trust](https://github.com/huiquanR/)* | (PPT) 15 Mins at 2023 AJC
 ..        | ---------- | ----------
 Ongoing   | ---------- | ----------
-18.RR     | *[Value Map and Trends in Contemporary China](https://github.com/huiquanR/)* | (ongoing)
-19.RR     | *[Urbanization and Political Trust in Asia](https://github.com/huiquanR/)* |  (ongoing)
-20.RR     | To be continued...:metal:                      |   :blush:
+18.2024.ICS   | *[Political Disclaimer as a Social Media Strategy in China](https://github.com/huiquanR/)* | (PPT) 15 Mins
+19.2024.CQ    | *[The Tireless Toothless Tiger: Local Cyberspace Administration in China](https://github.com/huiquanR/)* | (PPT) 15 Mins
+20.RR     | *[Majority-Minority Gap in Tolerance and Social Diversity](https://github.com/huiquanR/)* | (ongoing)
+21.RR     | *[Empowerment: Exposure to Female Leaders and Gender Work Values](https://github.com/huiquanR/)* |  (ongoing)
+22.RR     | To be continued...:metal:                      |   :blush:
 
 - Thanks for your interest in my works!
 *By: Tony Huiquan Zhang*
