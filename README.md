@@ -18,8 +18,8 @@ Project   | Title/Link | Notes
 13.2022.GWSHKX | *[后物质主义指标的跨国可比性](https://github.com/huiquanR/)* | (Accepted) sole-authored <br/> CSSCI core
 14.2022.CJCCJ  | *[Ethnic Fractionalization and Confidence in Legal Systems](https://github.com/huiquanR/)*|  (article)
 15.2023.RSMCC  | *[Protest Diffusion, USA 1960-95](PDF/08_DOCA_UM_20210408_TALK_45min.pdf)* | (PPT) 50 Mins, April 2021 at U Macau
-16.2023.SSR    | *[Peer Influence, Teacher Quality and Youth Deviance](https://github.com/huiquanR/)*    | (PPT) 15 Mins at 2023 AJC
-17.2023.SoCo   | *[Religion, Urbanization and Erosion of Political Trust](https://github.com/huiquanR/)* | (PPT) 15 Mins at 2023 AJC
+16.2023.SSR    | *[Peer Influence, Teacher Quality and Youth Deviance](PDF/Peer,Teacher,Youth%20Delinquency%20-%20v0.04.pdf)*    | (PPT) 15 Mins at March 2023 AJSC
+17.2023.SoCo   | *[Religion, Urbanization and Erosion of Political Trust](https://github.com/huiquanR/)* | (PPT) 
 ..        | ---------- | ----------
 Ongoing   | ---------- | ----------
 18.2024.ICS   | *[Political Disclaimer as a Social Media Strategy in China](https://github.com/huiquanR/)* | (PPT) 15 Mins
