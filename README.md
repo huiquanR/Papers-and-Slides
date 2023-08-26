@@ -3,7 +3,7 @@ Here I uploaded some slides/media outlets based on my published/forthcoming/ongo
 
 Project   | Title/Link | Notes
 ----------| ---------- | ----------
-00.2018.Thesis | *[My PHD Dissertation at U of Toronto](https://github.com/huiquanR/)* |  (thesis)
+00.Thesis      | *[My PHD Dissertation at U of Toronto](https://github.com/huiquanR/)*  |   (thesis)
 01.2014.BJS    | *[Social Media and Arab Spring](https://github.com/huiquanR/)* | Co-authored paper - as a PHD student
 02.2016.WCAS   | *[Weather and Social Movements](PDF/01_2016_Weather_革命者也怕淋雨_政见文章.pdf)* | (article) CHN Version for general readers (2016)
 03.2017.CSR    | *[Postmaterialism in China](https://github.com/huiquanR/)* | 
