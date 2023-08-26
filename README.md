@@ -3,6 +3,7 @@ Here I uploaded some slides/media outlets based on my published/forthcoming/ongo
 
 Project   | Title/Link | Notes
 ----------| ---------- | ----------
+00.2018.Thesis | *[My PHD Dissertation at U of Toronto](https://github.com/huiquanR/)* |  (thesis)
 01.2014.BJS    | *[Social Media and Arab Spring](https://github.com/huiquanR/)* | Co-authored paper - as a PHD student
 02.2016.WCAS   | *[Weather and Social Movements](PDF/01_2016_Weather_革命者也怕淋雨_政见文章.pdf)* | (article) CHN Version for general readers (2016)
 03.2017.CSR    | *[Postmaterialism in China](https://github.com/huiquanR/)* | 
@@ -24,7 +25,7 @@ Project   | Title/Link | Notes
 Ongoing        | ---------- | ----------
 18.2023.CAD    | *[Peer Influence, Teacher Quality and Youth Deviance](PDF/Peer,Teacher,Youth%20Delinquency%20-%20v0.04.pdf)*    | (PPT) 15 Mins at March 2023 AJSC
 19.2024.EJWOP  | *[he National Unemployment Rate and the Meaning of Work: A Cross-level Examination](https://github.com/huiquanR/)* |  (ongoing)
-20.2024.CQY    | *[How Do Toothless Tigers Bite? Extra-Institutional Governance and Internet Censorship by Local Governments in China](https://github.com/huiquanR/)* | (PPT) 15 Mins
+20.2024.CQY    | *[How Do Toothless Tigers Bite? Extra-Institutional Governance and Internet Censorship by Local Governments in China](https://github.com/huiquanR/)* |  (ongoing)
 21.2024.ASR    | *[Majority-Minority Gap in Tolerance and Social Diversity](https://github.com/huiquanR/)* | (ongoing)
 22.2024.JIBS   | *[See Jane Rule: Exposure to Female Leaders and Gender Egalitarian Values](https://github.com/huiquanR/)* |  (ongoing)
 23.2024.SMS    | *[Political Disclaimer as a Social Media Strategy in China](https://github.com/huiquanR/)* | (ongoing)
