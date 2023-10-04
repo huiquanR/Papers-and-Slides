@@ -14,24 +14,25 @@ Project   | Title/Link | Notes
 08.2021.AJOC   | *[Urban-Rural Gap and Confidence in Police in Philippines](PDF/06_科研快訊_菲律賓社會對警務系統的態度.pdf)* | (article)
 09.2021.PS     | *[Political Freedom, Media Consumption, and Hierarchical in Asia](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS6uV4gDFp6O_OX4g4mwJVGjJEzRNXp87q1qXa8Fplpd9QCI0OTL22Cq1uPFEJrTj1YE_ifVWttJG3U0BbO-Sl5adgj6H4v3rGCWDZi6W7awe1CDDuhisuSViXEsmyCRc2RL7W_tOaBcEj--dl6C-XdsCRPSGe-kKuKFsWDs4R9-gaa8sYC_qsJmualTGHWsGj0-id3Lqt7yqETM9hpoWd5i54z_tGSZTqA..&type=2&query=umsociology%20%E7%A7%91%E7%A0%94%E5%BF%AB%E8%AE%AF%20%E5%BC%A0%E6%B1%87%E6%B3%89&token=empty&k=98&h=_)* | (article) co-authored with student
 10.2021.IJPOR  | *[Education, Corruption Perception and Political Trust in East and Southeast Asia](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS6uV4gDFp6O_OX4g4mwJVGjJEzRNXp87q1qXa8Fplpd9QCI0OTL22Cq1uPFEJrTj1YE_ifVWttJG3U0BbO-Sl5adgj6H4v3rGICSKlV4qoTBZMMmTBeIX2xpWrxK8Mx3l1SB_x6QTRy4VeUuWvMy7oggRnTNK6Hl2KQEIpOWuR_bwBhGkUjUj-mRkH-6ehKVsDlo_YC0ZB3SqjQtj-552uyE8RsmObDbtQ..&type=2&query=umsociology%20%E7%A7%91%E7%A0%94%E5%BF%AB%E8%AE%AF%20%E5%BC%A0%E6%B1%87%E6%B3%89&token=empty&k=25&h=r)* | (article) co-authored with student 
-11.2022.SIR    | *[Radicalizing and Conservatizing: Ageing Effects on Political Trust in Asia](https://github.com/huiquanR/)* | (article) co-authored with student, published in 2022
+11.2022.SIR    | *[Radicalizing and Conservatizing: Ageing Effects on Political Trust in Asia](https://link.springer.com/article/10.1007/s11205-021-02848-8)* | (article) co-authored with student, published in 2022
 12.2022.SHXPL  | *[后物质主义五十年](PDF/02_2019_Postmaterialism_RUC_50mins.pdf)* | (Accepted) 50 Mins talk at RUC, sole-authored <br/> CSSCI core
-13.2022.GWSHKX | *[后物质主义指标的跨国可比性](https://github.com/huiquanR/)* | (Accepted) sole-authored <br/> CSSCI core
-14.2022.CJCCJ  | *[Ethnic Fractionalization and Confidence in Legal Systems](https://github.com/huiquanR/)*|  (article)
+13.2022.GWSHKX | *[后物质主义指标的跨国可比性](https://osf.io/twe9p/)* | (Accepted) sole-authored <br/> CSSCI core
+14.2022.CJCCJ  | *[Racial Diversity, Majority–Minority Gap, and Confidence in the Criminal Justice System](http://dx.doi.org/10.3138/cjccj.2021-0049)*|  (article)
 15.2023.RSMCC  | *[Protest Diffusion, USA 1960-95](PDF/08_DOCA_UM_20210408_TALK_45min.pdf)* | (PPT) 50 Mins, April 2021 at U Macau
-16.2023.JOHP   | *[The Effects of Leadership Levels and Gender on Leader Well-being.](https://github.com/huiquanR)*    |  (article) 
+16.2023.JOHP   | *[The Effects of Leadership Levels and Gender on Leader Well-being.](http://dx.doi.org/10.1037/ocp0000361)*    |  (article) 
 17.2023.SoCo   | *[Religion, Urbanization and Erosion of Political Trust](https://github.com/huiquanR/)* | (article) 
+18.2023.CAD    | *[Peer Influence, Teacher Quality and Youth Deviance](PDF/Peer,Teacher,Youth%20Delinquency%20-%20v0.04.pdf)*    | (PPT) 15 Mins at March 2023 AJSC
+19.2023.EJWOP  | *[National Unemployment Rate and the Meaning of Work: A Cross-level Examination](https://github.com/huiquanR/)* |  (ongoing)
+20.2024.CQY    | *[How Do Toothless Tigers Bite? Extra-Institutional Governance and Internet Censorship by Local Governments in China](https://github.com/huiquanR/)* |  (ongoing)
 ..             | ---------- | ----------
 Ongoing        | ---------- | ----------
-18.2023.CAD    | *[Peer Influence, Teacher Quality and Youth Deviance](PDF/Peer,Teacher,Youth%20Delinquency%20-%20v0.04.pdf)*    | (PPT) 15 Mins at March 2023 AJSC
-19.2024.EJWOP  | *[he National Unemployment Rate and the Meaning of Work: A Cross-level Examination](https://github.com/huiquanR/)* |  (ongoing)
-20.2024.CQY    | *[How Do Toothless Tigers Bite? Extra-Institutional Governance and Internet Censorship by Local Governments in China](https://github.com/huiquanR/)* |  (ongoing)
-21.2024.ASR    | *[Majority-Minority Gap in Tolerance and Social Diversity](https://github.com/huiquanR/)* | (ongoing)
+21.2024.APSR   | *[Majority-Minority Gap in Tolerance and Social Diversity](https://github.com/huiquanR/)* | (ongoing)
 22.2024.JIBS   | *[See Jane Rule: Exposure to Female Leaders and Gender Egalitarian Values](https://github.com/huiquanR/)* |  (ongoing)
 23.2024.SMS    | *[Political Disclaimer as a Social Media Strategy in China](https://github.com/huiquanR/)* | (ongoing)
-24.Working     | *[Linguistic Diversity, Majority-Minority Gap, and Outgroup Tolerance](https://github.com/huiquanR/)* |  (ongoing)
+24.2024.AJS    | *[Linguistic Diversity, Majority-Minority Gap, and Outgroup Tolerance](https://github.com/huiquanR/)* |  (ongoing)
 25.Working     | *[Campaign-style Governance: A Critical Review](https://github.com/huiquanR/)* |  (ongoing)
-26.Working     | To be continued...:metal:                      |   :blush:
+26.Working     | *[Participatory Censorship: Grand Jury on Zhihu.com](https://github.com/huiquanR/)* |  (ongoing)
+27.Working     | To be continued...:metal:                      |   :blush:
 
 - Thanks for your interest in my works!
 *By: Tony Huiquan Zhang*
