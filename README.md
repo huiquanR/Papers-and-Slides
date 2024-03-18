@@ -33,7 +33,7 @@ Ongoing        | ---------- | ----------
 <!-- this is a comment 24.2024.AJS    | *[Linguistic Diversity, Majority-Minority Gap, and Outgroup Tolerance](https://github.com/huiquanR/)* |  (ongoing)  -->
 <!-- this is a comment 25.Working     | *[Campaign-style Governance: A Critical Review](https://github.com/huiquanR/)* |  (ongoing)   -->
 <!-- this is a comment 26.Working     | *[Participatory Censorship: Grand Jury on Zhihu.com](https://github.com/huiquanR/)* |  (ongoing)  -->
-<!-- this is a comment --> 27.Working     | To be continued...:metal:                      |   :blush:
+Working     | To be continued...:metal:                      |   :blush:
 
 - Thanks for your interest in my works!
 *By: Tony Huiquan Zhang*
