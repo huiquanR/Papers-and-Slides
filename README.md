@@ -27,13 +27,14 @@ Project   | Title/Link | Notes
 ..             | ---------- | ----------
 ..             | ---------- | ----------
 Ongoing        | ---------- | ----------
+Working        | To be continued... :metal: | :blush: 
+
 <!-- this is a comment 21.2024.SF     | *[Majority-Minority Gap in Tolerance and Social Diversity](https://github.com/huiquanR/)* | (ongoing)  -->
 <!-- this is a comment 22.2024.JIBS   | *[See Jane Rule: Exposure to Female Leaders and Gender Egalitarian Values](https://github.com/huiquanR/)* |  (ongoing)  -->
 <!-- this is a comment 23.2024.SMS    | *[Political Disclaimer as a Social Media Strategy in China](https://github.com/huiquanR/)* | (ongoing)  -->
 <!-- this is a comment 24.2024.AJS    | *[Linguistic Diversity, Majority-Minority Gap, and Outgroup Tolerance](https://github.com/huiquanR/)* |  (ongoing)  -->
 <!-- this is a comment 25.Working     | *[Campaign-style Governance: A Critical Review](https://github.com/huiquanR/)* |  (ongoing)   -->
 <!-- this is a comment 26.Working     | *[Participatory Censorship: Grand Jury on Zhihu.com](https://github.com/huiquanR/)* |  (ongoing)  -->
-Working     | To be continued...:metal:                      |   :blush:
 
 - Thanks for your interest in my works!
 *By: Tony Huiquan Zhang*
