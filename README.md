@@ -22,7 +22,7 @@ Project   | Title/Link | Notes
 16.2023.JOHP   | *[The Effects of Leadership Levels and Gender on Leader Well-being.](http://dx.doi.org/10.1037/ocp0000361)*    |  (article) 
 17.2023.SoCo   | *[Religion, Urbanization and Erosion of Political Trust](https://github.com/huiquanR/)* | (article) 
 18.2023.CAD    | *[Peer Influence, Teacher Quality and Youth Deviance](PDF/Peer,Teacher,Youth%20Delinquency%20-%20v0.04.pdf)*    | (PPT) 15 Mins at March 2023 AJSC
-19.2023.EJWOP  | *[National Unemployment Rate and the Meaning of Work: A Cross-level Examination]([https://github.com/huiquanR/](https://github.com/huiquanR/Publications/blob/main/019%202024%20-%20EJWOP%20-%20Hu%20and%20Zhang%20-%20National%20unemployment%20rates%20and%20the%20meaning%20of%20work.pdf))* |  (ongoing)
+19.2023.EJWOP  | *[National Unemployment Rate and the Meaning of Work: A Cross-level Examination](https://github.com/huiquanR/Publications/blob/main/019%202024%20-%20EJWOP%20-%20Hu%20and%20Zhang%20-%20National%20unemployment%20rates%20and%20the%20meaning%20of%20work.pdf)* |  (ongoing)
 20.2024.CQY    | *[How Do Toothless Tigers Bite? Extra-Institutional Governance and Internet Censorship by Local Governments in China](https://github.com/huiquanR/)* |  (ongoing)
 ..             | ---------- | ----------
 ..             | ---------- | ----------
