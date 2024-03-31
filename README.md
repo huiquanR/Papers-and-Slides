@@ -3,11 +3,11 @@ I am a sociologist who are interested in public opinion, political culture, Inte
 Here are a list of my published and ongoing research projects - including the papers, presentation slides (PPT/Beamer), and some notes.
 If you are interested in some of them, you can feel free to reach me via email, which should be easy to find.
 
-Project   | Title      | Notes / Links
-----------| ---------- | ----------
-00.Thesis      | *[My PHD Dissertation at U of Toronto](https://github.com/huiquanR/)*  |   (thesis) [[PDF]](Papers/000%202018%20Dissertation.pdf) [PPT]
-01.2014.BJS    | *[Social Media and Arab Spring](https://github.com/huiquanR/)* | [PDF] [PPT]
-02.2016.WCAS   | *[Weather and Social Movements](PDF/01_2016_Weather_革命者也怕淋雨_政见文章.pdf)* | [PDF] [PPT]
+Project        | Title      | Notes / Links
+---------------| ---------- | ----------
+00.Thesis      | *[My PHD Dissertation at U of Toronto](Papers/000%202018%20Dissertation.pdf)*,<br/>which focuses on political culture and its relation to political freedom | [[PDF]](Papers/000%202018%20Dissertation.pdf) [PPT]
+01.2014.BJS    | *[Social Media in the 2011 Egyptian Uprising](https://github.com/huiquanR/)*,<br/>which was published at the British Journal of Sociology,<br/> and received the BJS Awards for the 2014-2015 Biennial Best Paper<br/> <sub><sup>Cited as: Brym, R., Godbout, M., Hoffbauer, A., Menard, G., & Zhang, T. H. (2014). Social media in the 2011 Egyptian uprising. The British journal of sociology, 65(2), 266-292.</sup></sub>   | [[PDF]](Papers/001%202014%20BJS.pdf) [PPT]
+02.2016.WCAS   | *[Weather and Social Movements](Papers/002%202016%20WCAS.pdf)* <br/> <sub><sup>Cited as: Zhang, Tony Huiquan. "Weather effects on social movements: Evidence from Washington, DC, and New York City, 1960–95." Weather, Climate, and Society 8.3 (2016): 299-311. </sup></sub>| [[PDF]](Papers/002%202016%20WCAS.pdf) [[PPT]](Papers/002%202016%20WCAS.pdfPDF/01_2016_Weather_革命者也怕淋雨_政见文章.pdf)
 03.2017.CSR    | *[Postmaterialism in China](https://github.com/huiquanR/)* | [PDF] [PPT]
 04.2019.SOCF   | *[Freedom, Education & Tolerance](PDF/03_2016_同性戀包容度_缪斯夫人_微文库原文已删.pdf)* | [PDF] [PPT]
 05.2019.JEAS   | *[Chinese Princelings 1977-2012](PDF/04_2019_JEAS_Princelings_50min.pdf)* | [PDF] [PPT]
