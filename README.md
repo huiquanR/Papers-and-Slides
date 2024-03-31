@@ -1,9 +1,11 @@
-# Project, Slides, Media Outlets #
-Here I uploaded some slides/media outlets based on my published/forthcoming/ongoing research projects. If you are interested in some of the works/files/talks, you can feel free to reach me via email, which should be easy to find.
+# Research Projects, Papers, Slides and Media Outlets #
+I am a sociologist who are interested in public opinion, political culture, Internet and social media, Asia/China Studies, and Quantitative/Qualitative Methods.
+Here are a list of my published and ongoing research projects - including the papers, presentation slides (PPT/Beamer), and some notes.
+If you are interested in some of them, you can feel free to reach me via email, which should be easy to find.
 
 Project   | Title      | Notes / Links
 ----------| ---------- | ----------
-00.Thesis      | *[My PHD Dissertation at U of Toronto](https://github.com/huiquanR/)*  |   (thesis) [PDF] [PPT]
+00.Thesis      | *[My PHD Dissertation at U of Toronto](https://github.com/huiquanR/)*  |   (thesis) [[PDF]](Papers/000%202018%20Dissertation.pdf) [PPT]
 01.2014.BJS    | *[Social Media and Arab Spring](https://github.com/huiquanR/)* | [PDF] [PPT]
 02.2016.WCAS   | *[Weather and Social Movements](PDF/01_2016_Weather_革命者也怕淋雨_政见文章.pdf)* | [PDF] [PPT]
 03.2017.CSR    | *[Postmaterialism in China](https://github.com/huiquanR/)* | [PDF] [PPT]
