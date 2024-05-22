@@ -25,18 +25,19 @@ Project        | Title / Notes | Links
 17.2023.SoCo   | *[Religion, Urbanization and Erosion of Political Trust](Papers/017%202023%20SOCO%20Religion%20Paper.pdf)* <br/> <sub><sup> Cited as: Zhang, T. H., & Jiang, A. (2024). Urbanization, education, and religion: Rationalization and erosion of political trust in Asia. Sociology Compass, 18(1), e13155. </sup></sub>| [[PDF]](Papers/017%202023%20SOCO%20Religion%20Paper.pdf) [PPT] [POST]
 18.2023.CAD    | *[Peer Influence, Teacher Quality and Youth Deviance](PDF/Peer,Teacher,Youth%20Delinquency%20-%20v0.04.pdf)* <br/> <sub><sup> Cited as: Sun, G., & Zhang, T. H. (2023). Peer Influence on Youth Delinquency: How Does School-Level Teacher Quality Matter?. Crime & Delinquency, 00111287231207385. </sup></sub>| [[PDF]](Papers/018%202023%20CAD%20youth%20delinquency%20and%20teacher.pdf) [[PPT]](PDF/Peer,Teacher,Youth%20Delinquency%20-%20v0.04.pdf) [POST]
 19.2023.EJWOP  | *[National Unemployment Rate and the Meaning of Work: A Cross-level Examination](Papers/019%202024%20EJWOP%20-%20Unemployment%20and%20WorkMeaning.pdf)* <br/> <sub><sup> Cited as: Hu, J., & Zhang, T. H. (2024). National unemployment rates and the meaning of work: a cross-level examination. European Journal of Work and Organizational Psychology, 1-14. </sup></sub>| [[PDF]](Papers/019%202024%20EJWOP%20-%20Unemployment%20and%20WorkMeaning.pdf) [PPT] [POST]
-20.2024.CQY    | *[How Do Toothless Tigers Bite? Extra-Institutional Governance and Internet Censorship by Local Governments in China](https://github.com/huiquanR/)* <br/> <sub><sup> Cited as: Zhang, T. H., Xu, J., & Liu, J. (2023). How Do Toothless Tigers Bite? Extra-Institutional Governance and Internet Censorship by Local Governments in China. the China Quarterly. </sup></sub>| [[PDF]](https://github.com/huiquanR/) [PPT] [POST]
+20.2024.WJWA   | *[Income, Ageing, and Gendered Patterns of Wellness: Health and Happiness in China](https://doi.org/10.1080/08952841.2024.2337967)* <br/> <sub><sup> Cited as: 2024 Jinjin Liu†, Yue Liu†, Yingzhu Pu†*, and Tony Huiquan Zhang, "Income, Ageing, and Gendered Patterns of Wellness: Health and Happiness in China." Journal of Women & Aging.. </sup></sub>| [[PDF]](https://github.com/huiquanR/) [PPT] [POST]
+21.2024.CQY    | *[How Do Toothless Tigers Bite? Extra-Institutional Governance and Internet Censorship by Local Governments in China](https://doi.org/10.1017/S0305741024000602)* <br/> <sub><sup> Cited as: Zhang, T. H., Xu, J., & Liu, J. (2023). How Do Toothless Tigers Bite? Extra-Institutional Governance and Internet Censorship by Local Governments in China. the China Quarterly. </sup></sub>| [[PDF]](https://github.com/huiquanR/) [PPT] [POST]
 ..             | ---------- | ----------
 ---------------| Ongoing Projects| ----------
-21.2024.JCC    | *[Political Disclaimer as a Social Media Strategy in China](https://github.com/huiquanR/)* |  (ongoing)
-22.2024.SF     | *[Diversity, Majority-Minority Gap and Outgroup Tolerance](https://github.com/huiquanR/)* |  (ongoing)
+22.2024.JCC    | *[Political Disclaimer as a Social Media Strategy in China](https://github.com/huiquanR/)* |  (ongoing)
+23.2024.BJS    | *[Diversity, Majority-Minority Gap and Outgroup Tolerance](https://github.com/huiquanR/)* |  (ongoing)
 ..             | ---------- | ----------
 Working        | To be continued... :metal: | :blush: 
 ..             | ---------- | ----------
-<!-- this is a comment 21.2024.SF     |  | (ongoing)  -->
-<!-- this is a comment 22.2024.JIBS   | *[See Jane Rule: Exposure to Female Leaders and Gender Egalitarian Values](https://github.com/huiquanR/)* |  (ongoing)  -->
-<!-- this is a comment 23.2024.SMS    |  | (ongoing)  -->
-<!-- this is a comment 24.2024.AJS    | *[Linguistic Diversity, Majority-Minority Gap, and Outgroup Tolerance](https://github.com/huiquanR/)* |  (ongoing)  -->
+<!-- this is a comment 24.2024.SF     |  | (ongoing)  -->
+<!-- this is a comment 25.2024.JIBS   | *[See Jane Rule: Exposure to Female Leaders and Gender Egalitarian Values](https://github.com/huiquanR/)* |  (ongoing)  -->
+<!-- this is a comment 26.2024.SMS    |  | (ongoing)  -->
+<!-- this is a comment 27.2024.AJS    | *[Linguistic Diversity, Majority-Minority Gap, and Outgroup Tolerance](https://github.com/huiquanR/)* |  (ongoing)  -->
 <!-- this is a comment 25.Working     | *[Campaign-style Governance: A Critical Review](https://github.com/huiquanR/)* |  (ongoing)   -->
 <!-- this is a comment 26.Working     | *[Participatory Censorship: Grand Jury on Zhihu.com](https://github.com/huiquanR/)* |  (ongoing)  -->
 
