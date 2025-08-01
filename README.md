@@ -30,13 +30,17 @@ Project        | Title / Notes | Links
 ..             | ---------- | ----------
 21.2025.CAD    | *[Peer Influence, Teacher Quality and Youth Deviance](PDF/Peer,Teacher,Youth%20Delinquency%20-%20v0.04.pdf)* <br/> <sub><sup> Cited as: Sun, G., & Zhang, T. H. (2025). Peer Influence on Youth Delinquency: How Does School-Level Teacher Quality Matter?. Crime & Delinquency, 00111287231207385. </sup></sub>| [[PDF]](Papers/018%202023%20CAD%20youth%20delinquency%20and%20teacher.pdf) [[PPT]](PDF/Peer,Teacher,Youth%20Delinquency%20-%20v0.04.pdf) [POST]
 22.2025.PolPsy | *[Critical Citizens and Discontented Citizens: Education, Perceptions of Fairness, and Support for Anti-COVID Measures in China](Papers/022%202025%20POPS%20-%20Liu%20et%20al%20-%20Critical%20citizens.pdf)* <br/> <sub><sub>Cited as: Jinjin Liu, Yingzhu Pu, and Tony Huiquan Zhang, “Critical Citizens and Discontented Citizens: Education, Perceptions of Fairness, and Support for Anti-COVID Measures in China.” Online Early View at Political Psychology.</sub></sub>| [[PDF]](Papers/022%202025%20POPS%20-%20Liu%20et%20al%20-%20Critical%20citizens.pdf) [[PPT]](Papers/022%202025%20POPS%20-%20Liu%20et%20al%20-%20Critical%20citizens.pdf) [POST]
-23.2025.JCC    | *[Political Disclaimer as a Social Media Strategy in China](https://github.com/huiquanR/)* | [PDF] [PPT] [POST]
-24.2025.SOCB   | *[Diversity, Majority-Minority Gap and Outgroup Tolerance](https://github.com/huiquanR/)* | [PDF] [PPT] [POST]
+23.2025.SOCB   | *[Diversity, Majority-Minority Gap and Outgroup Tolerance](https://github.com/huiquanR/)* | [PDF] [PPT] [POST]
+24.2025.JCC    | *[Political Disclaimer as a Social Media Strategy in China](https://github.com/huiquanR/)* | [PDF] [PPT] [POST]
+---------------| Ongoing Projects| ----------
 25.2026.LQ     | *[Is Seeing Believing? Exposure to Substantive Versus Symbolic Women Leaders and Perceptions of Women’s Leadership Potential](https://github.com/huiquanR/)* | [PDF] [PPT] [POST]
 26.2026.SPPS   | *[Bridging awareness and action: The influence of gender inequality, power distance, and individualism on collective action intention for gender equality](https://github.com/huiquanR/)* |  (ongoing)
----------------| Ongoing Projects| ----------
 Working        | To be continued... :metal: | :blush: 
-27.2026.SOCF    | *[Linguistic Diversity, Majority-Minority Gap, and Outgroup Tolerance](https://github.com/huiquanR/)* |  (ongoing)
+27.2026.HComm  | *[Tobacco Use and Media Consumption Behaviors](https://github.com/huiquanR/)* |  (ongoing)
+28.2026.SOCF   | *[Linguistic Diversity, Majority-Minority Gap, and Outgroup Tolerance](https://github.com/huiquanR/)* |  (ongoing)
+29.2026.PNAS   | *[Surnames and Gender Equality: Evidence from China during 2010-2025](https://github.com/huiquanR/)* |  (ongoing)
+30.2026.JQC    | *[Police Call-for Service in a Eastern China city](https://github.com/huiquanR/)* |  (ongoing)
+31.2026.BJS    | *[Value Diversity and Linguistic Composition in Societies](https://github.com/huiquanR/)* |  (ongoing)
 <!-- this is a comment 24.2024.SF     |  | (ongoing)  -->
 <!-- this is a comment 25.Working     | *[Campaign-style Governance: A Critical Review](https://github.com/huiquanR/)* |  (ongoing)   -->
 <!-- this is a comment 26.Working     | *[Participatory Censorship: Grand Jury on Zhihu.com](https://github.com/huiquanR/)* |  (ongoing)  -->
