@@ -1,5 +1,5 @@
 # Research Projects, Papers, Slides and Media Outlets #
-I am a sociologist who are interested in public opinion, political culture, Internet and social media, Asia/China Studies, and Quantitative/Qualitative Methods. Here are a list of my published and ongoing research projects - including the papers, presentation slides (PPT/Beamer), and some notes.
+I am a sociologist who are interested in public opinion, political culture, the internet and social media, Asia/China studies, and quantitative/qualitative methods. Here are a list of my published and ongoing research projects - including the papers, presentation slides (PPT/Beamer), and some notes.
 Feel free to reach me via email (which should be easy to find) if you are interested in them.
 
 Project        | Title / Notes | Links
