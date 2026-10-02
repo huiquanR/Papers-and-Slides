@@ -38,9 +38,10 @@ Project        | Title / Notes | Links
 28.2026.SocProb| *Academic Performance, Gender Inequality, and Gendered Patterns of Adolescent Bullying Victimization in 67 Societies* <br/> <sub><sup>Cited as: Zhang, S., & Zhang, T. H. (2026). Academic performance, gender inequality, and gendered patterns of adolescent bullying victimization in 67 societies. *Social Problems*. Accepted for publication.</sup></sub> | (accepted)
 29.2026.AJC    | *Delinquent Peer Association, Teacher Quality, and Juvenile Delinquency: The Gendered Patterns in China* <br/> <sub><sup>Cited as: Sun, G., & Zhang, T. H. (2026). Delinquent peer association, teacher quality, and juvenile delinquency: The gendered patterns in China. *Asian Journal of Criminology*. Accepted for publication.</sup></sub> | (accepted)
 30.2026.LQ     | *[Is Seeing Believing? Exposure to Substantive Versus Symbolic Women Leaders and Perceptions of Women’s Leadership Potential](https://github.com/huiquanR/)* | [PDF] [[PPT]](PDF/20251112_v0.18%20-%20LINGNAN%20UNIV.pdf) [POST]
+..             | ---------- | ----------
+31.2027.JOEAS  | *Converging Ideas over Contentious Issues: Politicization and Polarization on Chinese Social Media* | (ongoing)
 ---------------| --------------- | ----------
 ---------------| Ongoing Projects| ----------
-31.2027.JOEAS  | *Converging Ideas over Contentious Issues: Politicization and Polarization on Chinese Social Media* | (ongoing)
 32.2026.JQC    | *Police Calls for Service in an Eastern Chinese City* | (ongoing)
 33.2026.SOCb   | *See Jane Rule: Exposure to Women Politicians and Gendered Attitudes in 111 Societies* | (ongoing)
 ---------------| --------------- | ----------
