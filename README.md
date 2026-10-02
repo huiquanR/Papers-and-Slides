@@ -35,19 +35,20 @@ Project        | Title / Notes | Links
 25.2026.SPPS   | *[Bridging awareness and action: The influence of gender inequality, power distance, and individualism on collective action intention for gender equality](https://github.com/huiquanR/)* <br/> <sub><sup> Cited as: Chunhui Yang†, Tony Huiquan Zhang, Natasza Kosakowska Berezecka, Hongfei Du*, Peilian Chi*. “Bridging awareness and action: The influence of gender inequality, power distance, and individualism on collective action intention for gender equality." Online Early View, at the Social Psychological and Personality Science. </sup></sub>|  [[PDF]](Papers/025%202026%20SPPS%20-%20Yang%20et%20al%20-%20Bridging%20Awareness-and-Action%20Power-distance-and-individualism.pdf) [PPT] [POST]
 26.2026.LQ     | *[Is Seeing Believing? Exposure to Substantive Versus Symbolic Women Leaders and Perceptions of Women’s Leadership Potential](https://github.com/huiquanR/)* | [PDF] [[PPT]](PDF/20251112_v0.18%20-%20LINGNAN%20UNIV.pdf) [POST]
 27.2026.Nature | *[AI agents in research: when productivity comes at the cost of apprenticeship.](https://www.nature.com/articles/d41586-026-01440-9)* | [[PDF]](https://github.com/huiquanR/2026_Nature_AgenticAI_Productivity/blob/main/Zhang(2026)Nature_AI_Productivity.pdf)[PPT][POST]
----------------| --------------- | ----------
----------------| Ongoing Projects| ----------
----------------| --------------- | ----------
 28.2026.HComm  | *[Tobacco Use and Media Consumption Behaviors](https://github.com/huiquanR/)* |  (ongoing)
 29.2026.SocProb| *[Academic Performance, Gender Inequality, and Gendered Patterns of Bullying Victimization in 67 societies](https://github.com/huiquanR/)* |  (ongoing)
 30.2026.AJC    | *[Delinquent Peer Association, Teacher Quality, and Juvenile Delinquency: The Gendered Patterns in China](https://github.com/huiquanR/)* |  (ongoing)
 ---------------| --------------- | ----------
+---------------| Ongoing Projects| ----------
+31.2027.JOEAS  | *[Converging Ideas over Contentious Issues: Politicization and Polarization on Chinese Social Media](https://github.com/huiquanR/)* |  (ongoing)
+32.2026.JQC    | *[Police Call-for Service in a Eastern China city](https://github.com/huiquanR/)* |  (ongoing)
+33.2026.SOCb   | *[See Jane Rule: Exposure to Women Politicians and Gendered Attitudes Patterns Across 111 Societies](https://github.com/huiquanR/)* |  (ongoing)
+---------------| --------------- | ----------
+---------------| --------------- | ----------
 Working        | To be continued... :metal: | :blush: 
 ---------------| --------------- | ----------
-31.2027.SMS    | *[Converging Ideas over Contentious Issues: Politicization and Polarization on Chinese Social Media](https://github.com/huiquanR/)* |  (ongoing)
-32.2026.JQC    | *[Police Call-for Service in a Eastern China city](https://github.com/huiquanR/)* |  (ongoing)
-33.2026.BJS    | *[Value Diversity and Linguistic Composition in Societies](https://github.com/huiquanR/)* |  (ongoing)
-34.2027.JCC    | *[Participatory Censorship: Grand Jury on Zhihu.com](https://github.com/huiquanR/)* |  (ongoing)
+34.2026.BJS    | *[Value Diversity and Linguistic Composition in Societies](https://github.com/huiquanR/)* |  (ongoing)
+35.2027.JCC    | *[Participatory Censorship: Grand Jury on Zhihu.com](https://github.com/huiquanR/)* |  (ongoing)
 <!-- this is a comment 36.2024.SF     |  | (ongoing)  -->
 
 - Thanks for your interest in my works!
