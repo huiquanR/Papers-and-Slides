@@ -38,19 +38,18 @@ Project        | Title / Notes | Links
 28.2026.Nature | *[AI wearables could exploit people’s most vulnerable moments](https://www.nature.com/articles/d41586-026-03742-4)* <br/> <sub><sup>Cited as: Zhang, T. H., & Hu, J. (2026). AI wearables could exploit people’s most vulnerable moments. *Nature, 659*, 852. [https://doi.org/10.1038/d41586-026-03742-4](https://doi.org/10.1038/d41586-026-03742-4)</sup></sub> | [[PDF](Papers/028%202026%20Nature%20-%20Zhang%20Hu%20-%20Correspondence%20-%20Wearable%20AI%20and%20Privacy.pdf)]
 29.2026.AJC    | *[When Do Delinquent Peers Matter Less? The Gendered Role of School-Level Teacher Credential Concentration](https://link.springer.com/article/10.1007/s11417-026-09508-1)* <br/> <sub><sup>Cited as: Sun, G., & Zhang, T. H. (2026). When do delinquent peers matter less? The gendered role of school-level teacher credential concentration. *Asian Journal of Criminology, 21*, Article 39. [https://doi.org/10.1007/s11417-026-09508-1](https://doi.org/10.1007/s11417-026-09508-1)</sup></sub> | [[PDF](Papers/029%202027%20AJOC%20-%20Sun%20%26%20Zhang%20-%20Teacher%20Accreditation.pdf)]
 30.2026.SocProb| *Academic Performance, Gender Inequality, and Gendered Patterns of Adolescent Bullying Victimization in 67 Societies* <br/> <sub><sup>Cited as: Zhang, S., & Zhang, T. H. (2026). Academic performance, gender inequality, and gendered patterns of adolescent bullying victimization in 67 societies. *Social Problems*. Accepted for publication.</sup></sub> | (accepted)
-31.2026.LQ     | *[Is Seeing Believing? Exposure to Substantive Versus Symbolic Women Leaders and Perceptions of Women’s Leadership Potential](https://github.com/huiquanR/)* <br/> <sub><sup>Cited as: Hu, J., Zhang, T. H., Li, W.-D., & Heslin, P. (2026). Is Seeing Believing? Exposure to Substantive Versus Symbolic Women Leaders and Perceptions of Women’s Leadership Potential. *The Leadership Quarterly* (accepted).</sup></sub> | [PDF] [[PPT]](PDF/20251112_v0.18%20-%20LINGNAN%20UNIV.pdf) [POST]
 ..             | ---------- | ----------
-32.2027.JOEAS  | *Converging Ideas over Contentious Issues: Politicization and Polarization on Chinese Social Media* | (ongoing)
+31.2026.LQ     | *[Is Seeing Believing? Exposure to Substantive Versus Symbolic Women Leaders and Perceptions of Women’s Leadership Potential](https://github.com/huiquanR/)* <br/> <sub><sup>Cited as: Hu, J., Zhang, T. H., Li, W.-D., & Heslin, P. (2026). Is Seeing Believing? Exposure to Substantive Versus Symbolic Women Leaders and Perceptions of Women’s Leadership Potential. *The Leadership Quarterly* (accepted).</sup></sub> | [PDF] [[PPT]](PDF/20251112_v0.18%20-%20LINGNAN%20UNIV.pdf) [POST]
 ---------------| --------------- | ----------
 ---------------| Ongoing Projects| ----------
-33.2026.JQC    | *Police Calls for Service in an Eastern Chinese City* | (ongoing)
+32.2027.JOEAS  | *Converging Ideas over Contentious Issues: Politicization and Polarization on Chinese Social Media* | (ongoing)
+33.2026.POLI   | *Police Calls for Service in an Eastern Chinese City* | (ongoing)
 34.2026.SOCb   | *See Jane Rule: Exposure to Women Politicians and Gendered Attitudes in 111 Societies* | (ongoing)
----------------| --------------- | ----------
----------------| --------------- | ----------
-Working        | To be continued... :metal: | :blush: 
----------------| --------------- | ----------
 35.2026.BJS    | *[Value Diversity and Linguistic Composition in Societies](https://github.com/huiquanR/)* |  (ongoing)
 36.2027.JCC    | *[Participatory Censorship: Grand Jury on Zhihu.com](https://github.com/huiquanR/)* |  (ongoing)
+---------------| --------------- | ----------
+Working        | To be continued... :metal: | :blush: 
+<!-- this is a comment 37.2024.SF     |  | (ongoing)  -->
 <!-- this is a comment 37.2024.SF     |  | (ongoing)  -->
 
 - Thanks for your interest in my works!
